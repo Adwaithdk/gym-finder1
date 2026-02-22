@@ -1,0 +1,7 @@
+{
+  "name": "Local Gym Finder – Thrissur Edition",
+  "description": "A stylish, professional gym discovery and comparison platform for Thrissur, featuring smart AI insights, free trial bookings, and featured listings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
